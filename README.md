@@ -5,6 +5,6 @@
 >
 > [DOI]
 
-[![Binder](https://mybinder.org/badge_logo.svg)]()
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmichelenstrofer/EWTEC_     2023/main?labpath=notebook.ipynb)
 
 The notebook can be run in *Binder* by clicking on the button above, or locally using the conda environment file.
